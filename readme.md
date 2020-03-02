@@ -5,6 +5,7 @@
 5. `git push -u origin master`：把本地仓库内容推送到远程仓库中，首次加 -u，以后推送或拉去可以简化命令`git push origin master`
 6. `git remote remove origin`：删除关联的仓库地址
 7. `git pull origin 远程仓库地址`：拉取远程仓库xxx分支到本地xxx分支来（远程仓库有更新，本地要拉取更新）
+8. ············
 _________
 
 1. `git log`：显示从最近到最远的1所有提交日志
